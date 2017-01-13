@@ -17,7 +17,8 @@ html, body {
 #FileManagerContainer.popup {
     font-size: 13px;
     overflow: hidden;
-    height: 490px;
+    /*height: 490px;*/
+    overflow: scroll;
 }
 
 #FileManagerContainer > form {
